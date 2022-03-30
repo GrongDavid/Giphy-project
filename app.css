@@ -1,0 +1,17 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#remove-button {
+    background-color: red;
+}
+
+#search-button{
+    background-color: greenyellow;
+}
+
+#form-container {
+    display: flex;
+    justify-content: center;
+}
